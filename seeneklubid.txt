@@ -1,0 +1,10 @@
+1	'Aleksandri 27, Tartu'	2009-01-01	37
+2	'Kaunase puiestee 69, Tartu'	2020-02-03	69
+3	'Haapsalu maantee 420, Tallinn'	2015-05-18	127
+4	'Kastani 12, Tartu'	2017-12-30	270
+5	'Aardla 47, Tartu'	2018-11-25	140
+6	'Kruusamäe 23, Tartu'	2019-05-06	96
+7	'Mõisavahe 12, Tartu'	2018-07-20	57
+8	'Raatuse 17, Tartu'	2016-09-11	228
+9	'Sepa 33, Tartu'	2020-03-15	270
+10	'Viljandi mnt 13, Tartu'	2020-04-02	248

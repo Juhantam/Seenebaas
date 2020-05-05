@@ -1,0 +1,10 @@
+1	'punane kärbseseen'	levinud	magus	mürgine
+2	sirmik	üliharuldane	tummine	mürgitu
+3	'valge kärbseseen'	haruldane	magus	surmav
+4	kukeseen	levinud	suitsune	mürgitu
+5	pilvik	levinud	lääge	vähemürgine
+6	sapipuravik	levinud	mõru	mürgine
+7	kevadkogrits	levinud	mage	surmav
+8	'pihkane liimik'	levinud	imal	mürgitu
+9	'pruun kärbseseen'	üliharuldane	mõru	surmav
+10	arušampinjon	üliharuldane	magus	mürgitu
