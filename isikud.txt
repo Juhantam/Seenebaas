@@ -60,7 +60,7 @@
 60	Vambola	Leping	52	M	3
 61	Anne	Villems	60	N	4
 62	Tõnu	Tamme	42	N	6
-63	'Thomas	Richard'	77	N	8
+63	'Thomas	Richard'	Hastings	77	N	8
 64	Kaido	Soom	46	M	3
 65	Andreas	Pawlas	10	M	1
 66	Tõnu	Lehtsaar	12	M	2
@@ -121,7 +121,7 @@
 121	Toomas	Lott	97	N	5
 122	Enn	Veldi	71	M	9
 123	Reet	Sool	89	M	0
-124	'Delaney	Michael'	30	N	8
+124	'Delaney	Michael'	Stonewell	30	N	8
 125	Tiia	Krass	51	M	4
 126	Regina	Paabo	79	M	2
 127	Kaili	Palts	44	N	8
